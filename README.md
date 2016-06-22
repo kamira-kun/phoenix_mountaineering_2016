@@ -8,3 +8,4 @@ start_at: 2016-07-22
 end_at: 2016-07-24
 
 ## メンバー
+kamira-kun
